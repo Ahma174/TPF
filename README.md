@@ -8,4 +8,5 @@ image assets by ivy mobile and sprite made by me.
 
 there will be atleast 5-10 versions of the sprite
 
+current version: 1
 ![View The Sprite](https://raw.githubusercontent.com/Ahma174/TPF/refs/heads/main/sprite/ss.png)
